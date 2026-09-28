@@ -1,7 +1,13 @@
 # White-Box Test Suite: check_task()
 
-Testers (pair): <name 1>, <name 2>
-Date: <date>
+Testers (pair): GROUP 2 
+1. Alya Nabihah bt Ahmad Kamarzaman (22012109)
+2. Mohammad Syarafuddin Bin Mohd Zaidi (22006949)
+3. ⁠Nurul Hafizhah Binti Zainal Abidin (22005732)
+4. ⁠Muhammad Adam Muzir Bin Mohamad Azmi (22006801)
+
+Date: 28/09/2026
+
 File under test: `whitebox_target.py`, function `check_task(priority, hours)`
 
 ## 1. Control flow
